@@ -1,4 +1,4 @@
-##This is my Resume readme!
+#Austin Sefton - JavaScript Software Developer
 
 
 ![sunset](./assets/sunset.jpg)
