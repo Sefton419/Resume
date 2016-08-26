@@ -56,7 +56,9 @@ Twitter API
 
 ## Education
 #### Hack Reactor Core | MakerSquare | Software Engineering | 2016
+![MakerSquare](./assets/makersquare-logo.png) 
 #### University of California, Berkeley | B.A. History | 2015
+![UCBerkeley](./assets/ucb-seal-white.png) 
 
 ---------
 
