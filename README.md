@@ -64,7 +64,6 @@ Twitter API
 
 ![Me](./assets/profile.jpg)
 ![Narrows](./assets/narrows.jpg)
-![Strat](./assets/strat.jpg)
 
 - [My Github](https://github.com/sefton419) 
 - [My linkedin](https://www.linkedin.com/in/austinseftonusa) 
