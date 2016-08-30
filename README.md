@@ -62,11 +62,12 @@ Twitter API
 
 ---------
 
-## Other Places You Can Find Me
+![Me](./assets/profile.jpg)
+![Narrows](./assets/narrows.jpg)
+![Strat](./assets/strat.jpg)
 
 - [My Github](https://github.com/sefton419) 
 - [My linkedin](https://www.linkedin.com/in/austinseftonusa) 
 - [A Blog Post](https://sefton419.wordpress.com/)
 
-![Me](./assets/profile.jpg)
-![Narrows](./assets/narrows.jpg)
+
