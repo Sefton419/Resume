@@ -1,6 +1,4 @@
 #Austin Sefton - JavaScript Software Developer
-
-
 ![sunset](./assets/sunset.jpg)
 
 ##Technical Skills
@@ -55,18 +53,15 @@ Twitter API
 ---------
 
 ## Education
-#### Hack Reactor Core | MakerSquare | Software Engineering | 2016
-![MakerSquare](./assets/makersquare-logo.png) 
+#### Hack Reactor | Software Engineering | 2016
+![HackReactor](./assets/hack-reactor-logo.png) 
 #### University of California, Berkeley | B.A. History | 2015
-![UCBerkeley](./assets/ucb-seal-white.png) 
+![UCBerkeley](./assets/logo-ucberkeley.png) 
 
 ---------
 
 ![Me](./assets/profile.jpg)
 ![Narrows](./assets/narrows.jpg)
-
-- [My Github](https://github.com/sefton419) 
-- [My linkedin](https://www.linkedin.com/in/austinseftonusa) 
-- [A Blog Post](https://sefton419.wordpress.com/)
+![Strat](./assets/strat.jpg)
 
 
