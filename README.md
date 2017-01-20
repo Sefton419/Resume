@@ -1,4 +1,3 @@
-#Austin Sefton - JavaScript Software Developer
 ![sunset](./assets/sunset.jpg)
 
 ##Technical Skills
@@ -31,10 +30,10 @@ different items
 *Simple Twitter API app that allows users to search for Twitter usernames, display most recent tweets, and display a simplified profile*
 
 - Developed app completely alone with basic error handling in two days
-- Enhanced user experience using AngularJS and ensured data quality with node.js / express.js on the back end
+- Enhanced user experience using AngularJS and ensured data quality with node.js / express.js on the backend
 - Allowed users to retrieve *25 most recent tweets* from their favorite twitter user by developing a search bar that connects to
 Twitter API
-- Followed best practice methodologies to built out server in node.js / express.js with router, controllers, and services
+- Followed best practice methodologies to build out server in node.js / express.js with router, controllers, and services
 
 ---------
 
@@ -53,6 +52,8 @@ Twitter API
 ---------
 
 ## Education
+#### UCSD Extension | Java Programming Certificate | Current - 2017
+![UCSD](./assets/ucsd-ext.png)
 #### Hack Reactor | Software Engineering | 2016
 ![HackReactor](./assets/hack-reactor-logo.png) 
 #### University of California, Berkeley | B.A. History | 2015
